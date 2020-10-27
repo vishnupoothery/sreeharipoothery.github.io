@@ -70,6 +70,7 @@ $(function() {
 });
 
 /*When clicking on Full hide fail/success boxes */
+//commented
 $('#name').focus(function() {
   $('#success').html('');
 });
